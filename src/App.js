@@ -1,9 +1,10 @@
 import "./styles.css";
+import Home from "./Home.js";
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Kaia Bergmann-Dean</h1>
+      <Home />
     </div>
   );
 }
